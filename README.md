@@ -2,7 +2,6 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&weight=700&size=32&duration=2500&pause=1000&color=72FFAA&center=true&vCenter=true&width=1000&height=90&lines=SAMA+CHAKRADHAR;B.Tech+3rd+Year+%7C+Artificial+Intelligence+%26+Data+Science;AI+%7C+Python+%7C+Web+%7C+AI+Agents+%7C+Unity" alt="Sama Chakradhar animated header">
 
-<br>
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=17&duration=2200&pause=700&color=24D96B&center=true&vCenter=true&width=900&height=45&lines=Build+%E2%80%A2+Learn+%E2%80%A2+Experiment+%E2%80%A2+Improve+%E2%80%A2+Share" alt="Animated tagline">
 
@@ -22,21 +21,12 @@
 
 </div>
 
----
-
-## 👨‍💻 About Me
-
-I'm **Sama Chakradhar**, a **3rd-year B.Tech student specializing in Artificial Intelligence & Data Science (AI&DS)**.
-
-I enjoy building practical projects, experimenting with new technologies, and learning by doing.
-
-My main interests are **Python, Artificial Intelligence, AI Agents, Web Development, SQL, Linux/Ubuntu, Unity Game Development, and Creative Technology**.
-
-I also enjoy **video editing and visual content creation** using **CapCut, Filmora, and Adobe creative tools**.
-
-### My approach
-
-```text
+👋 Hi, I'm Sama Chakradhar
+B.Tech 3rd Year • Artificial Intelligence & Data Science
+I'm a 3rd-year B.Tech student specializing in Artificial Intelligence & Data Science (AI&DS) who enjoys building practical projects, experimenting with new technologies, and learning by doing.
+My main interests are Python, Artificial Intelligence, AI Agents, Web Development, SQL, Linux/Ubuntu, Unity Game Development, and Creative Technology.
+I also enjoy video editing and visual content creation using CapCut, Filmora, and Adobe creative tools.
+My approach
 IDEA
   ↓
 LEARN
@@ -48,7 +38,6 @@ EXPERIMENT
 IMPROVE
   ↓
 SHARE
-
 ⚡ What I'm Exploring
 <div align="center">
 
@@ -151,7 +140,6 @@ Sorting
 Searching
 Trees
 Graphs
-
 🧭 Current Learning Path
 <div align="center">
 
@@ -174,7 +162,6 @@ AI Applications
 AI Agents
    ↓
 Advanced Projects
-
 I'm following a learn → build → test → improve approach instead of only following tutorials.
 🏗️ How I Like to Build
 01  Explore a problem
@@ -188,7 +175,6 @@ I'm following a learn → build → test → improve approach instead of only fo
 05  Improve the result
         ↓
 06  Document and share
-
 I enjoy understanding how things work, experimenting with new tools, and turning ideas into working software.
 🎮 Creative Side
 Interactive Development
@@ -219,7 +205,6 @@ Interactive Development
 🧩 DSA
 🎬 Video Editing
 ✨ Creative Technology
-
 </div>
 
 📊 GitHub Statistics
@@ -279,4 +264,3 @@ AI • AI Agents • Software Development • Web Applications • Game Developm
 
 <sub>Always learning. Always building.</sub>
 </div>
-```
